@@ -65,7 +65,7 @@ foreach ($n in $USER_FIRST_LAST_LIST) {
 
 ### Text File Format:
 
-**TheOffice.txt**: `**LINK HERE**`
+**TheOffice.txt**: [Click here to access names](https://github.com/paigeholl/BulkAdd/blob/main/TheOffice.txt)
 
 > **NOTE**: Be mindful of Lines 7 and 22 if you want to create a new Organizational Unit with a different name.
 
