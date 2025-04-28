@@ -28,7 +28,7 @@ This automation technique is especially useful for system administrators who nee
 
 <img src=https://ik.imagekit.io/typeai/tr:w-1200,c-at_max/img_iiOR34bC6pPqXJd2XN.png width=1000px>
 
-## Example: Adding The Office US Characters
+## Example: Adding The Office Characters
 
 Here is the script and the text file structure:
 
@@ -63,11 +63,12 @@ foreach ($n in $USER_FIRST_LAST_LIST) {
 }
 ```
 
+> **NOTE**: Be mindful of Lines 7 and 22 if you want to create a new Organizational Unit with a different name.
+
 ### Text File Format:
 
 **TheOffice.txt**: [Click here to access names](https://github.com/paigeholl/BulkAdd/blob/main/TheOffice.txt)
 
-> **NOTE**: Be mindful of Lines 7 and 22 if you want to create a new Organizational Unit with a different name.
 
 ## Enabling Script Execution
 
@@ -99,6 +100,6 @@ The script won't work right away - you need to enable the execution of scripts f
 
 ### Active Directory After Running the Script:
 
-![](https://ik.imagekit.io/typeai/tr:w-1200,c-at_max/img_OCwaG2LzB3uOvOKumI.png){ width=400px }
+<img src=https://ik.imagekit.io/typeai/tr:w-1200,c-at_max/img_OCwaG2LzB3uOvOKumI.png width=400px>
 
 > **REMINDER**: Be mindful of Lines 7 and 22 if you want to create your own new Organizational Unit.
